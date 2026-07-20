@@ -1,0 +1,22 @@
+# Office Temporary Files
+~$*
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.suo
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
